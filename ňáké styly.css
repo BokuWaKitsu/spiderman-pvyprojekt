@@ -1,0 +1,38 @@
+.Pozadi {
+    background-color: crimson;
+}
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+.vpravo {
+    float: right;
+    text-align: right;
+}
+.text {
+    text-align: left;
+    font-size: 150%;
+}
+.linky {
+    color: darkblue;
+    text-align: center;
+    border: 2px;
+    border-style: solid;
+}
+table{
+    border-style:solid;
+    font-size: 20px;
+    color: black;
+    border-color: black;
+    
+}
+tr{
+    border-style:solid;
+}
+td{
+    border-style:solid;}
+th{
+    border-style: solid;
+    color: darkblue;
+
+}
